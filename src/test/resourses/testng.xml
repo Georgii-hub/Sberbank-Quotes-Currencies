@@ -1,5 +1,5 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="Demo Suite" verbose="2" parallel="classes" thread-count="6">
+<suite name="Demo Suite" verbose="2" parallel="classes" thread-count="3">
     <test name="Sberbank Quotes Currencies Test">
         <classes>
             <class name="SberbankQuotesCurrenciesTest"></class>
