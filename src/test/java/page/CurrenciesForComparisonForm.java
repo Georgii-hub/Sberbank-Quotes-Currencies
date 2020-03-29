@@ -68,6 +68,4 @@ public class CurrenciesForComparisonForm extends AbstractPage {
                 By.xpath("//div[@class='visible']/span[3]")));
         selectDKK.click();
     }
-
-
 }
