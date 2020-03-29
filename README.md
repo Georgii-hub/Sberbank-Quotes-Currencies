@@ -1,1 +1,0 @@
-# Sberbank-Quotes-Currencies
